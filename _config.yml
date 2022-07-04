@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Guided Super-Resolution Project"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+name                     : &name "CIDIS"
+description              : &description "Blog for guided thermal image super-resolution project by CIDIS computer vision group."
 url                      : https://vision-cidis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/guided-sr" # the subpath of your site, e.g. "/blog"
 repository               : "vision-cidis/guided-sr"
@@ -67,8 +67,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    - "#"
+    - "#"
 
 # Analytics
 analytics:
@@ -80,21 +80,21 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  avatar           : "https://avatars.githubusercontent.com/u/64220890?s=96&v=4?.jpg"
+  bio              : "Centro de Investigación, Desarrollo e Innvocación de Sistemas Computacionales."
+  location         : "Guayaquil, EC"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "http://www.cidis.espol.edu.ec"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : 
   foursquare       :
-  github           : "mmistakes"
+  github           : "vision-cidis"
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : #*twitter
   vine             :
   weibo            :
   xing             :
